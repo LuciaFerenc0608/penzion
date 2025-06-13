@@ -127,13 +127,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LuciaFerenc0608/penzion.git"
+    "url": "git+https://github.com/LuciaFerenc0608/penzion"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LuciaFerenc0608/penzion.git"
+    "url": "https://github.com/LuciaFerenc0608/penzion"
   },
-  "homepage": "https://github.com/LuciaFerenc0608/penzion.git"
+  "homepage": "https://github.com/LuciaFerenc0608/penzion"
 }
